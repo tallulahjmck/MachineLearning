@@ -4,4 +4,4 @@ In this project I used Python and Jupyter Notebook to to tackle the problem of â
 
 ðŸ’š PROJECT 2: Detection of Pneumonia in Medical Images
 
-In this project I used Python and Jupyter Notebook to tackle the task of Detecting  Pneumonia in Medical Images. This task consists of creating image classifiers to predict whether there is pneumonia or not based on input x-ray images.
+Developed a deep learning image classification model capable of identifying pneumonia from chest X-ray images. The project explored computer vision techniques, model evaluation and healthcare-focused AI applications.
